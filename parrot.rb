@@ -4,4 +4,4 @@ end
 
 parrot
 
-parrot(make noise)
+parrot("make noise")
